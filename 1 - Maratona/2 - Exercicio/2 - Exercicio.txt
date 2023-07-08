@@ -1,0 +1,15 @@
+Temos um JSON com o cadastro de varios cliente, consulte esse JSON.
+Na consulta deve ser retornado os cliente que tem:
+ * Idade entre 18 e 30 anos.
+ * Que ja tiveram um total de compras de maior que 5.
+ * Moram no estado de minas gerais (MG).
+
+ Retorna o codigo desses clientes. 
+
+OBS:
+    use 'const listaClientes = require("./clientes.json");', para consulta o JSON.
+
+Exemplo:
+    Entrada: arquivo json
+    Saída:
+        Clientes: 

@@ -1,0 +1,8 @@
+Cria um jogo de corridas de cavalos no console:
+ * Ele deve ser atualizado a casa um segundo.
+ * Em casa rodado um cavalo e selecionado para avancar de forma aleatorio.
+ * Quando um cavalo chegar ao final o jogo termina.
+ * O jogo devera der 4 cavalos.
+ * O total de casas que um cavalo deve andar é 10, para ganhar.
+
+ Olha a imagem ... .

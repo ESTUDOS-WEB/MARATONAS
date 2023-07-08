@@ -1,0 +1,168 @@
+{
+    "clintes":[
+        {
+            "codigo": 1,
+            "nome": "Cliente 1",
+            "idade": 34,
+            "genero": "feminino",
+            "endereco":{
+                "logradouro": "Rua 89879",
+                "cidade": "Cidade 32242",
+                "uf": "MG"
+            },
+            "compras":[
+                {
+                    "codigo": 1253453,
+                    "data": "01/01/0001",
+                    "valor": 100
+                },
+                {
+                    "codigo": 123345,
+                    "data": "01/01/0001",
+                    "valor": 240
+                },
+                {
+                    "codigo": 12343543,
+                    "data": "01/01/0001",
+                    "valor": 346
+                },
+                {
+                    "codigo": 123353,
+                    "data": "01/01/0001",
+                    "valor": 34
+                },
+                {
+                    "codigo": 123234,
+                    "data": "01/01/0001",
+                    "valor": 564
+                },
+                {
+                    "codigo": 123345,
+                    "data": "01/01/0001",
+                    "valor": 446
+                }
+            ]
+        },
+        {
+            "codigo": 2,
+            "nome": "Cliente 2",
+            "idade": 23,
+            "genero": "feminino",
+            "endereco":{
+                "logradouro": "Rua 5679",
+                "cidade": "Cidade 33R42",
+                "uf": "MG"
+            },
+            "compras":[
+                {
+                    "codigo": 1253453,
+                    "data": "01/01/0001",
+                    "valor": 100
+                },
+                {
+                    "codigo": 123345,
+                    "data": "01/01/0001",
+                    "valor": 240
+                },
+                {
+                    "codigo": 12343543,
+                    "data": "01/01/0001",
+                    "valor": 346
+                },
+                {
+                    "codigo": 123353,
+                    "data": "01/01/0001",
+                    "valor": 34
+                },
+                {
+                    "codigo": 123234,
+                    "data": "01/01/0001",
+                    "valor": 564
+                },
+                {
+                    "codigo": 123345,
+                    "data": "01/01/0001",
+                    "valor": 446
+                }
+            ]
+        },
+        {
+            "codigo": 3,
+            "nome": "Cliente 3",
+            "idade": 24,
+            "genero": "masculino",
+            "endereco":{
+                "logradouro": "Rua 89879",
+                "cidade": "Cidade 32242",
+                "uf": "ES"
+            },
+            "compras":[
+                {
+                    "codigo": 1253453,
+                    "data": "01/01/0001",
+                    "valor": 100
+                },
+                {
+                    "codigo": 123345,
+                    "data": "01/01/0001",
+                    "valor": 240
+                },
+                {
+                    "codigo": 12343543,
+                    "data": "01/01/0001",
+                    "valor": 346
+                },
+                {
+                    "codigo": 123353,
+                    "data": "01/01/0001",
+                    "valor": 34
+                }
+            ]
+        },
+        {
+        "codigo": 4,
+            "nome": "Cliente 4",
+            "idade": 27,
+            "genero": "feminino",
+            "endereco":{
+                "logradouro": "Rua 565734",
+                "cidade": "Cidade 34534",
+                "uf": "MG"
+            },
+            "compras":[
+                {
+                    "codigo": 1253453,
+                    "data": "01/01/0001",
+                    "valor": 100
+                },
+                {
+                    "codigo": 123345,
+                    "data": "01/01/0001",
+                    "valor": 240
+                },
+                {
+                    "codigo": 12343543,
+                    "data": "01/01/0001",
+                    "valor": 346
+                },
+                {
+                    "codigo": 123353,
+                    "data": "01/01/0001",
+                    "valor": 34
+                },
+                {
+                    "codigo": 123234,
+                    "data": "01/01/0001",
+                    "valor": 564
+                },
+                {
+                    "codigo": 123345,
+                    "data": "01/01/0001",
+                    "valor": 446
+                }
+            ]
+        }
+    ],
+    "totalClientes": 4,
+    "loja": "loja 1"
+}
