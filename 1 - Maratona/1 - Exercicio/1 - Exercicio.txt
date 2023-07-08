@@ -6,5 +6,5 @@ Exemplo:
         Inpares: 1,5,-89787
         Pares: -8,1000
         Maior: 1000
-        Maior: -89787
+        menor: -89787
         Sama: -88789
