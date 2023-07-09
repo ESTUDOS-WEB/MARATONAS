@@ -1,4 +1,4 @@
-Retorno os numeros pares e impares do vetor de entrara:
+Retorne os numeros impares, pares, maior número, menor número e a soma de um vetor de numeros:
 
 Exemplo:
     Entrada: [1,5,-8,1000,-89787]
@@ -6,5 +6,5 @@ Exemplo:
         Inpares: 1,5,-89787
         Pares: -8,1000
         Maior: 1000
-        Maior: -89787
-        Sama: -88789
+        Menor: -89787
+        Soma: -88789

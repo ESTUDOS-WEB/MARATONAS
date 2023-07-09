@@ -1,18 +1,18 @@
-Crie um algoritimo para calcular o troco:
- * A entrada  deve ser um array com todas as notas e moedas de entrado
-    * posicao 0: valor de VALOR DA COMPRAR
-    * posicao 1: quantidade nota de 100
-    * posicao 2: quantidade nota de 50
-    * posicao 3: quantidade nota de 20
-    * posicao 4: quantidade nota de 10
-    * posicao 5: quantidade nota de 5
-    * posicao 6: quantidade nota de 2
-    * posicao 7: quantidade plata de 1 real
-    * posicao 8: quantidade plata de 50 centavos
-    * posicao 9: quantidade plata de 25 centavos
-    * posicao 10: quantidade plata de 10 centavos
-    * posicao 11: quantidade plata de 5 centavos
-    * posicao 12: quantidade plata de 1 centavos
+Crie um algoritmo para calcular o troco:
+ * A entrada  deve ser um array com todas as notas e moedas de entrada
+    * posição 0: valor de VALOR DA COMPRAR
+    * posição 1: quantidade nota de 100
+    * posição 2: quantidade nota de 50
+    * posição 3: quantidade nota de 20
+    * posição 4: quantidade nota de 10
+    * posição 5: quantidade nota de 5
+    * posição 6: quantidade nota de 2
+    * posição 7: quantidade moeda de 1 real
+    * posição 8: quantidade moeda de 50 centavos
+    * posição 9: quantidade moeda de 25 centavos
+    * posição 10: quantidade moeda de 10 centavos
+    * posição 11: quantidade moeda de 5 centavos
+    * posição 12: quantidade moeda de 1 centavos
 
 Exemplo:
 
